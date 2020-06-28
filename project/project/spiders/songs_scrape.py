@@ -25,8 +25,7 @@ class SongsScrape(scrapy.Spider):
     def start_requests(self):
         urls = [
         ]
-        for i in range(1,23):
-            
+        for i in range(1,22):
             urls.append('https://sinhalasongbook.com/all-sinhala-song-lyrics-and-chords/?_page='+str(i))
             
         print(urls)
