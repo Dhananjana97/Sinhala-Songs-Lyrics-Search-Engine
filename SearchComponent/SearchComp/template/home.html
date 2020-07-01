@@ -1,10 +1,26 @@
 <html>
     <body style="background-color: #a598ee;">
+        <h2>Results Summary</h2>
+            <h3>Total Count</h3><span>{{result['hits']['total']['value']}}</span>
+            <h3>Counts by Views</h3>
+            <div>
+            {% for i in result['aggregations']['name']['buckets'] %}
+                <span>
+                <p> <strong>Range</strong> </p>{{ i['key'] }}
+                <p> <strong>Count</strong> </p>{{ i['doc_count']}}
+                <hr>
+                </span>
+                
+            {% endfor %}
+            </div>
+        <hr>
+        <hr>
         <h2>Results</h2>
         {% if result|length>0 %}
-            {% for i in result %}
+            {% for i in result['hits']['hits'] %}
                 <h2>Arist</h2>{{ i['_source']['artist'] }}
                 <h2>genere</h2>{{ i['_source']['genere'] }}
+                <h2>lyricist</h2>{{ i['_source']['lyrics by'] }}
                 <h2>lyrics</h2>{{ i['_source']['lyrics'] }}
                 <h2>views</h2>{{ i['_source']['views'] }}
                 <hr>
