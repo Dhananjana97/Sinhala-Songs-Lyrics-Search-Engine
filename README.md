@@ -135,11 +135,18 @@ PUT /lyrics
 
 ## Setup and Run flask server
 
-1.Activate the virtual environment in SongLyricsSearch/SearchComponent/ .
-2.Download and setup  <a href="https://github.com/nlpc-uom/Sinling">Sinling</a> You have to append your project path to path environment variable.otherwise, you can go into the sinling folder and run ``` export PYTHONPATH="$PWD"```.Then you can use sinling, but only in that terminal.
-3.run ```flask run```
+1.Activate the virtual environment in SongLyricsSearch/SearchComponent/ .<br>
+2.Download and setup  <a href="https://github.com/nlpc-uom/Sinling">Sinling</a> You have to append your project path to path environment variable.otherwise, you can go into the sinling folder and run ``` export PYTHONPATH="$PWD"```.Then you can use sinling, but only in that terminal.<br>
+3.run ```flask run```<br>
 
-##Usage Examples
+## Usage Examples
+1.search for song lyrics <br>
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/kohe%20sita%20oba%20search.png" height=""> <br>
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/kohe%20sita%20oba%20result.png">
+
+
+2.search by singer's name
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/latha%20walpola%20search.png">
 
 
 
