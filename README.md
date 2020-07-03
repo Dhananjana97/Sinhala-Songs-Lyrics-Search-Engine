@@ -141,12 +141,28 @@ PUT /lyrics
 
 ## Usage Examples
 1.search for song lyrics <br>
-<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/kohe%20sita%20oba%20search.png" height=""> <br>
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/kohe%20sita%20oba%20search.png"> <br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/kohe%20sita%20oba%20result.png">
 
 
 2.search by singer's name
-<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/latha%20walpola%20search.png">
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/latha%20walpola%20search.png"><br>
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/latha%20walpola%20result.png">
+
+3.search by lyricist's name
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/sunilsearch.png"><br>
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/sunil%20result.png">
+
+4.search by artist name and get most popular songs
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/milton%20famous%203%20search.png"><br>
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/miltonfamous3.png">
+
+5.search by genere
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/filmsongssearch.png"><br>
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/filmresult.png">
+
+6.statistics of search result also displayed above the search result.
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/stat.png">
 
 
 
