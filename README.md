@@ -1,8 +1,8 @@
 # SongLyricsSearch
 ## Getting Started
-Download and run <a href="https://www.elastic.co/downloads/elasticsearch">Elasticsearch</a><br>
-Install <a href="https://www.elastic.co/guide/en/elasticsearch/plugins/current/analysis-icu.html">ICU Analysis plugin.</a><br>
-If You use Kibana for Query operations.You can install and run <a href="https://www.elastic.co/downloads/kibana">Kibana</a><br>
+1.Download and run <a href="https://www.elastic.co/downloads/elasticsearch">Elasticsearch</a><br>
+2.Install <a href="https://www.elastic.co/guide/en/elasticsearch/plugins/current/analysis-icu.html">ICU Analysis plugin.</a><br>
+3.If You use Kibana for Query operations.You can install and run <a href="https://www.elastic.co/downloads/kibana">Kibana</a><br>
 
 ## Setup Index and Mapping
 
