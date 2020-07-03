@@ -159,10 +159,10 @@ PUT /lyrics
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/miltonfamous3.png">
 
 5.search by genere <br>
-<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/filmsongssearch.png">
+<img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/filmsongssearch.png"> <br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/filmresult.png">
 
-6.statistics of search result also displayed above the search result. 
+6.statistics of search result also displayed above the search result. <br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/stat.png">
 
 
