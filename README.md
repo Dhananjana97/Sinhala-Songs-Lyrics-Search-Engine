@@ -131,7 +131,8 @@ PUT /lyrics
     }
 }
 ```
-2.download <a href="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/SearchComponent/bulk_json_generator/bulk_lyrics_objects.json">Sinhala Song Lyrics dataset</a> and add it to the created index using <a href=https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html>Bulk API</a>
+2.download <a href="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/SearchComponent/bulk_json_generator/bulk_lyrics_objects.json">Sinhala Song Lyrics dataset</a> 
+3.Add it to the created index using <a href=https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html>Bulk API</a>
 
 ## Setup and Run flask server
 
@@ -145,23 +146,23 @@ PUT /lyrics
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/kohe%20sita%20oba%20result.png">
 
 
-2.search by singer's name
+2.search by singer's name <br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/latha%20walpola%20search.png"><br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/latha%20walpola%20result.png">
 
-3.search by lyricist's name
+3.search by lyricist's name <br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/sunilsearch.png"><br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/sunil%20result.png">
 
-4.search by artist name and get most popular songs
+4.search by artist name and get most popular songs <br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/milton%20famous%203%20search.png"><br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/miltonfamous3.png">
 
-5.search by genere
+5.search by genere <br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/filmsongssearch.png"><br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/filmresult.png">
 
-6.statistics of search result also displayed above the search result.
+6.statistics of search result also displayed above the search result. <br>
 <img src="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/img/stat.png">
 
 
