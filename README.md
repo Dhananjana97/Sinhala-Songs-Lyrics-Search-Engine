@@ -6,7 +6,7 @@ If You use Kibana for Query operations.You can install and run <a href="https://
 
 ## Setup Index and Mapping
 
-1.First create index and 
+1.First, create index and its mapping 
 ```
 PUT /lyrics
 {
