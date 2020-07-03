@@ -131,3 +131,16 @@ PUT /lyrics
     }
 }
 ```
+2.download <a href="https://github.com/Dhananjana97/SongLyricsSearch/blob/master/SearchComponent/bulk_json_generator/bulk_lyrics_objects.json">Sinhala Song Lyrics dataset</a> and add it to the created index using <a href=https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-bulk.html>Bulk API</a>
+
+## Setup and Run flask server
+
+1.Activate the virtual environment in SongLyricsSearch/SearchComponent/ .
+2.Download and setup  <a href="https://github.com/nlpc-uom/Sinling">Sinling</a> You have to append your project path to path environment variable.otherwise, you can go into the sinling folder and run ``` export PYTHONPATH="$PWD"```.Then you can use sinling, but only in that terminal.
+3.run ```flask run```
+
+##Usage Examples
+
+
+
+
